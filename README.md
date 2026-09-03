@@ -31,47 +31,47 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="36" height="36" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="36" height="36" />
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="36" height="36" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="36" height="36" />
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="36" height="36" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36" />
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36" />
     </td>
   </tr>
 </table>
@@ -80,10 +80,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vmganancial/" target="_blank">
-    <img src="https://img.shields.io/badge/-Victor_Angelo_Ganancial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="30" height="30" align="center" />
+    <b> Victor Angelo Ganancial</b>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:victorangelo.ganancial@gmail.com">
-    <img src="https://img.shields.io/badge/-victorangelo.ganancial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="30" height="30" align="center" />
+    <b> victorangelo.ganancial@gmail.com</b>
   </a>
 </p>
 
