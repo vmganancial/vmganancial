@@ -19,7 +19,7 @@
 - Cybersecurity
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Statistics
 <p align="center">
   <a href="https://github.com/vmganancial">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vmganancial&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="vmganancial's GitHub Stats" />
