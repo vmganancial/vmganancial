@@ -29,49 +29,49 @@
 
 ## 🛠️ Languages & Tools
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="160"><b>Languages</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" /> JavaScript &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" height="24" /> Python &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="24" height="24" /> PHP
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td align="left">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="26" height="26" /></a> <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="26" height="26" /></a> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="26" height="26" /></a> <b>PHP</b>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="24" height="24" /> React &nbsp;&nbsp;&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="24" height="24" /> Tailwind CSS
+    <td align="left">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="26" height="26" /></a> <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="26" height="26" /></a> <b>Tailwind CSS</b>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" /> Node.js &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="24" height="24" /> Django
+    <td align="left">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26" height="26" /></a> <b>Node.js</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="26" height="26" /></a> <b>Django</b>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24" height="24" /> MySQL
+    <td align="left">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="26" height="26" /></a> <b>MySQL</b>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps & Cloud</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24" height="24" /> Docker &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="24" height="24" /> Kubernetes &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="24" height="24" /> Azure
+    <td align="left">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="26" height="26" /></a> <b>Docker</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="26" height="26" /></a> <b>Kubernetes</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="26" height="26" /></a> <b>Azure</b>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24" height="24" /> Git &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="24" height="24" /> VS Code &nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="24" height="24" /> Figma
+    <td align="left">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="26" height="26" /></a> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="26" height="26" /></a> <b>VS Code</b> &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="26" height="26" /></a> <b>Figma</b>
     </td>
   </tr>
 </table>
