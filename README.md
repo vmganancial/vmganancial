@@ -29,66 +29,90 @@
 
 ## 🛠️ Languages & Tools
 
-<div align="center">
-  <table align="center" width="100%">
-    <tr>
-      <td align="center" valign="middle" width="20%">
-        <b>Languages</b>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" height="28" align="center" /> JavaScript</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="28" height="28" align="center" /> Python</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="28" height="28" align="center" /> PHP</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <b>Frontend</b>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="28" height="28" align="center" /> React</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="28" height="28" align="center" /> Tailwind CSS</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <b>Backend</b>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="28" height="28" align="center" /> Node.js</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="28" height="28" align="center" /> Django</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <b>Database</b>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28" align="center" /> MySQL</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <b>DevOps & Cloud</b>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28" height="28" align="center" /> Docker</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="28" height="28" align="center" /> Kubernetes</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="28" height="28" align="center" /> Azure</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle">
-        <b>Tools</b>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="28" height="28" align="center" /> Git</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="28" height="28" align="center" /> VS Code</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="28" height="28" align="center" /> Figma</a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;PHP</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="26" height="26" /></td>
+          <td>&nbsp;Tailwind CSS</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="26" height="26" /></td>
+          <td>&nbsp;Django</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;MySQL</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps & Cloud</b></td>
+    <td>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;Docker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="26" height="26" /></td>
+          <td>&nbsp;Kubernetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;Azure</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;VS Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26" height="26" /></td>
+          <td>&nbsp;Figma</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br />
 
