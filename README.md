@@ -8,14 +8,14 @@
 </p>
 
 ## 📌 About Me
-- 📌I’m currently learning Web Application Security, Penetration Testing, and Secure Software Development
-- 🔎I’m looking to collaborate on Software Development, Cybersecurity, and Open-Source Projects
-- 🤝 I’m looking for help with Cybersecurity, Secure Application Development, and Industry Best Practices
+- 💻I’m currently learning Vulnerability Assessment, Penetration Testing, and Secure Software Development
+- 🔎I’m looking to collaborate on Software Development, Cybersecurity, and Projects
+- 🤝 I’m looking for help with Cybersecurity, Software Development, and Industry Best Practices
 
 
 ## 🧠 My Focus Areas
 - Software Development
-- Automation
+- Workflow Automation
 - Cybersecurity
 
 
@@ -48,7 +48,7 @@
   <tr>
     <td align="center"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     </td>
   </tr>
@@ -63,7 +63,7 @@
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
     </td>
   </tr>
   <tr>
@@ -80,10 +80,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vmganancial/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Victor_Angelo_Ganancial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Victor_Angelo_Ganancial-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:victorangelo.ganancial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-victorangelo.ganancial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-victorangelo.ganancial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
   </a>
